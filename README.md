@@ -9,10 +9,6 @@ A modern mobile application for discovering, booking, and managing coworking spa
 1. [Features](#features)
 2. [Technologies Used](#technologies-used)
 3. [Setup Instructions](#setup-instructions)
-4. [Usage](#usage)
-5. [Contribution](#contribution)
-6. [License](#license)
-7. [Contact](#contact)
 
 ---
 
