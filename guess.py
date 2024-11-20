@@ -4,16 +4,6 @@ import threading
 import time
 import os
 
-
-
-
-
-
-
-
-
-
-
 # Function to handle the guessing logic
 def check_guess():
     global countdown_thread
