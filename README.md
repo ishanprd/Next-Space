@@ -88,7 +88,7 @@ A modern mobile application for discovering, booking, and managing coworking spa
 
 - **Framework:** Flutter
 - **Backend API:** Django
-- **Database:** Firebase / MongoDB / sql
+- **Database:** Firebase/ sql
 - **Authentication:** Firebase Authentication with OAuth2 (Google Login)
 - **Payment Gateway:** esewa Integration
 - **Notifications:** Firebase Cloud Messaging (FCM)
